@@ -5,12 +5,16 @@
 ##  Fitur Utama
 
 -  **Scan Penyakit Kulit melalui Kamera**
+
+  
    Ambil gambar langsung dari kamera untuk mendeteksi penyakit kulit.
   
 -  **Unggah Gambar dari Galeri**
    Pilih gambar dari penyimpanan perangkat untuk analisis.
 
 -  **Riwayat Scan**
+
+  
    Menyimpan riwayat hasil deteksi yang telah dilakukan sebelumnya.
 
 -  **Halaman Treatment**

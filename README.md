@@ -10,6 +10,8 @@
    Ambil gambar langsung dari kamera untuk mendeteksi penyakit kulit.
   
 -  **Unggah Gambar dari Galeri**
+
+  
    Pilih gambar dari penyimpanan perangkat untuk analisis.
 
 -  **Riwayat Scan**
@@ -18,17 +20,14 @@
    Menyimpan riwayat hasil deteksi yang telah dilakukan sebelumnya.
 
 -  **Halaman Treatment**
+
+  
    Menyediakan informasi perawatan awal dari berbagai penyakit kulit umum, seperti jerawat, bisul, psoriasis, dan lainnya.
 
 -  **Onboarding Interaktif**
+
+  
    Panduan awal penggunaan aplikasi yang ramah pengguna.
 
-##  Teknologi yang Digunakan
-
-- Android Studio (Java)
-- Room Database untuk menyimpan riwayat
-- Roboflow untuk training dan hosting model deteksi
-- ConstraintLayout & Material Components untuk UI/UX
-- Retrofit (opsional, jika menggunakan model REST)
 
 

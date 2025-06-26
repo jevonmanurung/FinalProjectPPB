@@ -5,19 +5,19 @@
 ##  Fitur Utama
 
 -  **Scan Penyakit Kulit melalui Kamera**
-  - Ambil gambar langsung dari kamera untuk mendeteksi penyakit kulit.
+   Ambil gambar langsung dari kamera untuk mendeteksi penyakit kulit.
   
 -  **Unggah Gambar dari Galeri**
-  - Pilih gambar dari penyimpanan perangkat untuk analisis.
+   Pilih gambar dari penyimpanan perangkat untuk analisis.
 
 -  **Riwayat Scan**
-  - Menyimpan riwayat hasil deteksi yang telah dilakukan sebelumnya.
+   Menyimpan riwayat hasil deteksi yang telah dilakukan sebelumnya.
 
 -  **Halaman Treatment**
-  - Menyediakan informasi perawatan awal dari berbagai penyakit kulit umum, seperti jerawat, bisul, psoriasis, dan lainnya.
+   Menyediakan informasi perawatan awal dari berbagai penyakit kulit umum, seperti jerawat, bisul, psoriasis, dan lainnya.
 
 -  **Onboarding Interaktif**
-  - Panduan awal penggunaan aplikasi yang ramah pengguna.
+   Panduan awal penggunaan aplikasi yang ramah pengguna.
 
 ##  Teknologi yang Digunakan
 

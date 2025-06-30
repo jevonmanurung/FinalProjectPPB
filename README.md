@@ -29,5 +29,9 @@
   
    Panduan awal penggunaan aplikasi yang ramah pengguna.
 
+##  Anggota Kelompok 
+-  Jevon Tama Aristo Manurung - 5025221142
+-  Izzat Aji Androfaza - 5025221245
+-  Joseph Marcell Gultom - 5025221279
 
 
